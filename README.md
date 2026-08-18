@@ -6,8 +6,6 @@ Master's Thesis Project
 
 Sprint 1 — Requirements Analysis and System Design
 
-Status: Ready for Supervisor Review
-
 ## Sprint 1 Artifacts
 
 - Software Requirements Specification
@@ -18,4 +16,3 @@ Status: Ready for Supervisor Review
 - UML Use Case Diagram
 - Initial Entity Relationship Diagram
 - Initial Software Architecture
-- Sprint 1 Review Presentation
